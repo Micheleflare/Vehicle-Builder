@@ -1,6 +1,7 @@
 # Vehicle Builder
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+Video : https://drive.google.com/file/d/1OihrB6CrBEmSvTn5CGRZYogFRBj_NUrp/view?usp=sharing
 
 ## Description
 The Vehicle Builder is a TypeScript-based, command-line application designed to manage vehicle creation and interactions. This application allows users to create and customize vehicles including cars, trucks, and motorbikes, each with unique attributes and actions. The app guides users through creating or selecting vehicles, displaying relevant details, and allowing interaction through various actions, specific to each vehicle type.
